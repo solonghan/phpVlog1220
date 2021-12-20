@@ -1,0 +1,119 @@
+
+
+.table_1{
+    background-color: aliceblue;
+    
+    border-radius: 10px;
+    width: 280px;
+    margin: auto;
+    text-align: center;
+    padding: 15px 5px ;
+}
+.table_2{
+   
+    margin: auto;
+    background-color: rgb(93, 173, 243);
+    border-radius :5px; ;
+}
+.th_2{
+    background-color: rgb(93, 173, 243);
+    border: 0px;
+    /* margin: auto; */
+    text-align: center;
+    padding: 5px ;
+}
+.td_2{
+    background-color: rgb(157, 157, 214);
+}
+
+.body_1{
+    background-color: rgb(159, 197, 197);
+}
+
+.h_1{
+    text-align: center;
+    margin-top: 100px;
+}
+
+.input_1{
+    border: 1px solid;
+    background-color: rgb(135, 190, 222);
+    color:white;
+    border-radius:5px;
+    font-size: 15px;
+    
+}
+.input_1:hover{
+    background-color: rgb(42, 61, 165);
+}
+
+.input_2{
+    border: 1px solid;
+    background-color: rgb(248, 129, 129);
+    color:white;
+    border-radius:5px;
+    font-size: 15px;
+    
+}
+.input_2:hover{
+    background-color: brown;
+}
+
+.input_3{
+    border: 1px solid;
+    background-color: rgb(201, 182, 120);
+    color:white;
+    border-radius:5px;
+    font-size: 15px;
+    
+}
+.input_3:hover{
+    background-color: rgb(151, 124, 5);
+}
+
+.a_1{
+    color: rgb(3, 139, 14);
+    text-decoration: none;
+    
+}
+.a_1:hover{
+    color:red;
+    
+}
+
+.table_5{
+    margin: auto;
+    background-color: rgb(159, 197, 197);
+    border-radius :5px; 
+}
+
+
+
+.input_4{
+    border: 1px solid;
+    background-color: rgb(201, 182, 120);
+    color:black;
+    border-radius:5px;
+    font-size: 15px;
+    
+}
+.input_4:hover{
+    background-color: rgb(151, 124, 5);
+}
+
+.input_5{
+    border-width: 1px 1px 4px 4px ;
+    border-color: black;
+    border-style: solid ;
+    background-color: rgb(248, 129, 129);
+    color:black;
+    border-radius:5px;
+    font-size: 15px;
+    padding: 5px;
+    text-decoration: none;
+    
+}
+.input_5:hover{
+    background-color: brown;
+    border-width: 0px;
+}
